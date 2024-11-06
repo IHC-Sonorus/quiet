@@ -1,7 +1,5 @@
 # 🌟 Quiet - Monitoreo y Gestión de la Contaminación Sonora 🌟
 
-![Quiet Logo](https://i.imgur.com/Yn2Ukmh.png)
-
 ### 🧩 Descripción del Proyecto
 
 Quiet es una innovadora aplicación desarrollada por **Sonorus**, una startup que busca mejorar la calidad de vida mediante la reducción de la contaminación sonora. La aplicación permite a los usuarios monitorear los niveles de ruido en tiempo real, promoviendo ambientes más silenciosos y saludables.
