@@ -1,6 +1,6 @@
 # 🌟 Quiet - Monitoreo y Gestión de la Contaminación Sonora 🌟
 
-![Quiet Logo]([https://via.placeholder.com/200x100](https://github.com/realRhylow/quiet/blob/main/public/assets/images/quiet.png))
+![Quiet Logo](https://i.imgur.com/Yn2Ukmh.png)
 
 ### 🧩 Descripción del Proyecto
 
@@ -53,4 +53,4 @@ Quiet ofrece dos versiones:
 
 ## 📝 Documentación Adicional
 
-Consulta la [Documentación Completa](#) <!-- Enlace al informe o documento técnico si está en línea --> para detalles sobre el desarrollo y análisis del proyecto.
+Consulta la [Documentación Completa](#) para detalles sobre el desarrollo y análisis del proyecto.
